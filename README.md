@@ -1,14 +1,18 @@
-# Amazon-Review-Scraper-2024
-Das Skript in diesem Repository umfasst einen Amazon-Review-Webscraper, welcher die Limitationen von Amazon (nur 100 sichtbare Rezensionen pro Produkt) durch Anwendung verschiedener Filter umgeht. So ist es Möglich bis zu 1500 Produktrezensionen pro Produktvariation (z.B. Größe) zu scrapen. Die Informationen: 
-1. Kundenname
-2. Reviewtitel
-3. Herkunftsland
-4. Datum
-5. Produktvariation
-6. Review-Text
-7. Sternebewertung
-8. Anzahl der Likes
+# Amazon Review Scraper 2024
 
-werden bei der Ausführung einzeln extrahiert und in eine CSV-Datei eingetragen, um nach dem Scraping Prozess weiter verwendet werden zu können.
+This repository contains a script for scraping Amazon reviews, which bypasses Amazon's limitation of displaying only 100 reviews per product by applying various filters. This allows for scraping up to 1500 product reviews per product variation (e.g., size). The following information is extracted for each review:
 
-Um das Skript nutzen zu können sind einige Voraussetzungen notwendig. Im obigen Notebook wird im Folgenden eine vollständige Anleitung gegeben.
+1. Customer name
+2. Review title
+3. Country of origin
+4. Date
+5. Product variation
+6. Review text
+7. Star rating
+8. Number of likes
+
+Each piece of information is individually extracted and written to a CSV file for further use after the scraping process.
+
+To use the script, certain prerequisites are required. A complete guide is provided in the above notebook.
+
+The Script is designed for german Amazon and is also commented in german. If you have questions or need a translation message me on LinkedIn: https://de.linkedin.com/in/lukas-rommel-8917502aa
