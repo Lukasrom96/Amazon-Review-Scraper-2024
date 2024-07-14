@@ -15,4 +15,4 @@ Each piece of information is individually extracted and written to a CSV file fo
 
 To use the script, certain prerequisites are required. A complete guide is provided in the above notebook.
 
-*The Script is designed for german Amazon and is also commented in german. If you have questions or need a translation message me on LinkedIn: https://de.linkedin.com/in/lukas-rommel-8917502aa*
+*The script is designed for german amazon and is also commented in german. If you have questions or need a translation message me on LinkedIn: https://de.linkedin.com/in/lukas-rommel-8917502aa*
